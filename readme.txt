@@ -1,5 +1,9 @@
 I am testing branch~~
+<<<<<<< HEAD
 <<<<<<< HEAD3333333333333333333
+=======
+<<<<<<< HEAD!!!!!!!!!!!!!!!!!1
+>>>>>>> feature1
 I also want to solve conflict
 =======
 I want to address conflict.
