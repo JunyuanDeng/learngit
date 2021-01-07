@@ -1,5 +1,5 @@
 I am testing branch~~
-<<<<<<< HEAD
+<<<<<<< HEAD!!!!!!!!!!!!!!!!!1
 I also want to solve conflict
 =======
 I want to address conflict.
